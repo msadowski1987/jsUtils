@@ -3,6 +3,7 @@
 var vsUtils = {
 
 	// --- string helpers
+	// --- nowe
         
     stringIsEmpty: function (str) {
 
